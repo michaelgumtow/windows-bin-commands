@@ -1,1 +1,1 @@
-php artisan
+php artisan %*

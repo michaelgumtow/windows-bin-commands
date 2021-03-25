@@ -1,1 +1,1 @@
-vendor/bin/pest
+vendor/bin/pest %*
