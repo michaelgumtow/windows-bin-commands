@@ -1,0 +1,1 @@
+docker.exe exec -it airport_public_web_1 /usr/bin/zsh
